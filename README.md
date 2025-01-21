@@ -6,7 +6,7 @@ This project will feature a basic calculator that performs arithmetic operations
 We’ll use HTML to structure the calculator’s interface, CSS to style it for a clean and user-friendly look,
 and JavaScript to handle the calculations and user interactions.
 
-<h1>HTML:</h1>
+<h1>HTML</h1>
 The provided code is an HTML document that represents a basic calculator interface.
 It consists of a container div that contains an input field and a set of buttons for performing calculations. 
 The input field is of type “text” and has a class of “display”. The buttons are divided into two categories: operators and numbers. 
@@ -20,7 +20,7 @@ The code imports the Google font “Poppins” and sets it as the default font f
 The body is centered on the page with a background color.
 The calculator container has a maximum width, border-radius, and box-shadow. The display and buttons are styled accordingly.
 
-<h1>JavaScript:</h1>
+<h1>JavaScript</h1>
 
 The provided JavaScript code snippet is used to create functionality for a calculator.
 
