@@ -32,6 +32,6 @@ Event listeners are added to the buttons, so when clicked, they call the “calc
 
 
 
-
+Live Demo:  https://disha1527.github.io/Simple-Calculator/
 
 ![screencapture-127-0-0-1-5500-2025-01-21-21_25_55](https://github.com/user-attachments/assets/feb0c1e9-5d0e-46f2-b1d6-b240e3ebc8cc)
